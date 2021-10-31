@@ -1,4 +1,4 @@
-package com.github.cleanmvc.core.model;
+package com.github.cleanrest.core.model;
 
 import lombok.Builder;
 import lombok.Getter;

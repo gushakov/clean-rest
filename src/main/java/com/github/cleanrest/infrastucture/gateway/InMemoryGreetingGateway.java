@@ -1,7 +1,7 @@
-package com.github.cleanmvc.infrastucture.gateway;
+package com.github.cleanrest.infrastucture.gateway;
 
-import com.github.cleanmvc.core.model.Greeting;
-import com.github.cleanmvc.core.port.GreetingGatewayOutputPort;
+import com.github.cleanrest.core.model.Greeting;
+import com.github.cleanrest.core.port.GreetingGatewayOutputPort;
 import org.springframework.stereotype.Service;
 
 import java.util.Map;

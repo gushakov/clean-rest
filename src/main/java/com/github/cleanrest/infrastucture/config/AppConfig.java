@@ -1,9 +1,9 @@
-package com.github.cleanmvc.infrastucture.config;
+package com.github.cleanrest.infrastucture.config;
 
-import com.github.cleanmvc.core.port.GreetingGatewayOutputPort;
-import com.github.cleanmvc.core.port.GreetingInputPort;
-import com.github.cleanmvc.core.usecase.GreetSomeoneUseCase;
-import com.github.cleanmvc.infrastucture.presenter.GreetingRestPresenter;
+import com.github.cleanrest.core.port.GreetingGatewayOutputPort;
+import com.github.cleanrest.core.port.GreetingInputPort;
+import com.github.cleanrest.core.usecase.GreetSomeoneUseCase;
+import com.github.cleanrest.infrastucture.presenter.GreetingRestPresenter;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Scope;

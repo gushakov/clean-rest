@@ -1,7 +1,7 @@
-package com.github.cleanmvc.infrastucture.presenter;
+package com.github.cleanrest.infrastucture.presenter;
 
-import com.github.cleanmvc.core.model.Greeting;
-import com.github.cleanmvc.core.port.GreetingPresenterOutputPort;
+import com.github.cleanrest.core.model.Greeting;
+import com.github.cleanrest.core.port.GreetingPresenterOutputPort;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

@@ -1,6 +1,6 @@
-package com.github.cleanmvc.core.port;
+package com.github.cleanrest.core.port;
 
-import com.github.cleanmvc.core.model.Greeting;
+import com.github.cleanrest.core.model.Greeting;
 
 public interface GreetingPresenterOutputPort {
     void presentGreeting(Greeting greeting);

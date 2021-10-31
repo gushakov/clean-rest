@@ -1,4 +1,4 @@
-package com.github.cleanmvc.core.port;
+package com.github.cleanrest.core.port;
 
 public interface GreetingInputPort {
 

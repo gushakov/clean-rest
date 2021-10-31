@@ -1,8 +1,8 @@
-package com.github.cleanmvc.core.usecase;
+package com.github.cleanrest.core.usecase;
 
-import com.github.cleanmvc.core.port.GreetingGatewayOutputPort;
-import com.github.cleanmvc.core.port.GreetingInputPort;
-import com.github.cleanmvc.core.port.GreetingPresenterOutputPort;
+import com.github.cleanrest.core.port.GreetingGatewayOutputPort;
+import com.github.cleanrest.core.port.GreetingInputPort;
+import com.github.cleanrest.core.port.GreetingPresenterOutputPort;
 import lombok.RequiredArgsConstructor;
 
 @RequiredArgsConstructor

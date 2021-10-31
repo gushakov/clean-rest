@@ -1,6 +1,6 @@
-package com.github.cleanmvc.infrastucture.controller;
+package com.github.cleanrest.infrastucture.controller;
 
-import com.github.cleanmvc.core.port.GreetingInputPort;
+import com.github.cleanrest.core.port.GreetingInputPort;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.ApplicationContext;
 import org.springframework.web.bind.annotation.GetMapping;
