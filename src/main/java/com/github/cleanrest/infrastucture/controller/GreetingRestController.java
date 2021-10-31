@@ -17,10 +17,8 @@ public class GreetingRestController {
     public void greet(@RequestParam String name) {
 
         /*
-            Here is one of the biggest differences with
-            traditional MVC setup. We are getting our use case
-            from the DI container, then we just execute the
-            use case leaving it to decide for itself how
+            We are getting our use case from the DI container, then we
+            just execute the use case leaving it to decide for itself how
             it should present the results.
          */
 

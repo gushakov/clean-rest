@@ -25,7 +25,7 @@ public class GreetingRestPresenter implements GreetingPresenterOutputPort {
             Doing a bit of heavy lifting here ourselves:
             need to serialize the response model as JSON
             to the HTTP response. This will normally will
-            be done by Spring MVC when a request handling
+            be done by Spring Web when a request handling
             method returning the response model and annotated
             with ResponseBody.
          */
