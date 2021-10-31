@@ -1,7 +1,7 @@
-Spring MVC and Clean architecture
+Spring REST and Clean architecture
 ---
 
-This is an example of how we can reconcile Spring MVC and Clean architectural patters, especially
+This is an example of how we can use Spring Web (REST) and Clean architectural patterns, especially
 when it comes to separating `Controller` and `Presenter`.
 
 This example was inspired by the discussion in this very interesting post:
