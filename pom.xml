@@ -12,7 +12,7 @@
 	<artifactId>clean-rest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>clean-rest</name>
-	<description>Demo project to show how Spring MVC and Clean architecture can be combined</description>
+	<description>Demo project to show how Spring Web (REST) and Clean architecture can be combined</description>
 	<properties>
 		<java.version>16</java.version>
 	</properties>
