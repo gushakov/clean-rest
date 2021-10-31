@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.gihub</groupId>
 	<artifactId>clean-rest</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>clean-rest</name>
 	<description>Demo project to show how Spring Web (REST) and Clean architecture can be combined</description>
 	<properties>
