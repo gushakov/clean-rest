@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.gihub</groupId>
-	<artifactId>clean-mvc</artifactId>
+	<artifactId>clean-rest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>clean-mvc</name>
+	<name>clean-rest</name>
 	<description>Demo project to show how Spring MVC and Clean architecture can be combined</description>
 	<properties>
 		<java.version>16</java.version>
